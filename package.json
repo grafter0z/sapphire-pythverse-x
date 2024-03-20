@@ -1,0 +1,33 @@
+{
+  "name": "sapphire-pythverse-x",
+  "version": "1.0.0",
+  "description": "Enhance Pythverse functionalities with Sapphire, providing advanced features.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/grafter0z/sapphire-pythverse-x"
+  },
+  "author": "grafter0z",
+  "license": "MIT",
+  "dependencies": {
+    "sapphire-jsverse-x": "1.0.0",
+    "sapphire-pythverse-x": "1.0.0",
+    "web3-utils": "1.0.0",
+    "jquery": "1.0.0",
+    "ethereumjs-util": "1.0.0",
+    "moment": "1.0.0",
+    "bcrypt": "1.0.0",
+    "eslint": "1.0.0",
+    "passport": "1.0.0",
+    "commander": "1.0.0",
+    "socket.io": "1.0.0",
+    "sinon": "1.0.0",
+    "webpack-cli": "1.0.0",
+    "babel-core": "1.0.0",
+    "redux": "1.0.0",
+    "xml2js": "1.0.0"
+  }
+}
